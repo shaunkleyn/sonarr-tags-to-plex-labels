@@ -1,0 +1,5 @@
+pmm-venv/
+venv/
+log.txt
+config.ini
+.DS_Store
